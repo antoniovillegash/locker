@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45mm"
+   height="45mm"
+   viewBox="0 0 45 45"
+   version="1.1"
+   id="svg1069"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="eye-open.svg">
+  <defs
+     id="defs1063" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="250.28407"
+     inkscape:cy="-30.79556"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1066">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(219.42828,-48.073349)">
+    <path
+       style="fill:#bccada;fill-opacity:1;stroke-width:2.04545498"
+       inkscape:connector-curvature="0"
+       d="m -196.92835,64.436999 a 6.1363639,6.1363639 0 0 1 6.13637,6.136369 6.1363639,6.1363639 0 0 1 -6.13637,6.136368 6.1363639,6.1363639 0 0 1 -6.13633,-6.136368 6.1363639,6.1363639 0 0 1 6.13633,-6.136369 m 0,-9.204571 c 10.22726,0 18.96137,6.361404 22.50007,15.34094 -3.5387,8.979536 -12.27281,15.340902 -22.50007,15.340902 -10.22723,0 -18.96138,-6.361366 -22.49993,-15.340902 3.53855,-8.979536 12.2727,-15.34094 22.49993,-15.34094 m -18.04085,15.34094 c 3.37489,6.872745 10.34996,11.250014 18.04085,11.250014 7.69093,0 14.66587,-4.377269 18.04096,-11.250014 -3.37509,-6.872709 -10.35003,-11.250015 -18.04096,-11.250015 -7.69089,0 -14.66596,4.377306 -18.04085,11.250015 z"
+       id="path2269-2" />
+  </g>
+</svg>

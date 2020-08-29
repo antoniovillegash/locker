@@ -1,0 +1,58 @@
+:root{
+  --color-theme-1:#e43f5aff;
+  --color-theme-2:#39597eff;
+  --color-theme-3:#335071ff;
+  --color-theme-4:#1f4068ff;
+  --color-theme-5:#bccadaff;
+}
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;400;600&display=swap');
+html{
+  
+height: 100%;
+width: 100%;
+}
+body{
+  font-family: 'Mulish', sans-serif !important;
+  height: 100%;
+  width: 100%;
+  }
+.App{
+  
+  height: 100%;
+}
+#root{
+  height: 100%;
+}
+.MuiTypography-root{
+  font-family: 'Mulish', sans-serif !important;
+}
+
+/* Add locker button*/
+.makeStyles-addLockerButton-10:hover{
+  background-color: var(--color-theme-1) !important;
+}
+
+.MuiButton-contained{
+  font-family: 'Mulish', sans-serif !important;
+}
+
+/*create locker form*/
+.MuiInputBase-input{
+  color: var(--color-theme-5) !important;
+}
+
+.MuiFilledInput-underline{
+  border-color: var(--theme-color-1) !important;
+}
+.MuiFormLabel-root{
+  color: var(--color-theme-5) !important;
+}
+.Mui-focused{
+  color: var(--color-theme-1) !important;
+}
+.MuiFilledInput-underline:before{
+  border-bottom: var(--color-theme-5) !important;
+}
+.MuiFilledInput-underline:after{
+  border-color: var(--color-theme-1) !important;
+}

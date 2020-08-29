@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="45mm"
+   height="45mm"
+   viewBox="0 0 45 45"
+   version="1.1"
+   id="svg1069"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs1063" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="448.27397"
+     inkscape:cy="-30.79556"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1066">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(219.42828,-48.073349)">
+    <g
+       id="g1712"
+       transform="matrix(1.6553095,0,0,1.6553095,137.03737,-57.296797)">
+      <g
+         style="fill:#e43f5a;fill-opacity:1"
+         transform="matrix(0.07525083,0,0,0.07525083,-257.64474,75.388928)"
+         id="g4308">
+        <path
+           style="fill:#e43f5a;fill-opacity:1;stroke:none;stroke-width:89.63806915;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 741.34828,-155.903 a 58.284248,59.194893 0 0 0 -27.7669,7.91433 58.284248,59.194893 0 0 0 -29.14238,51.263915 v 77.888301 h 25.18369 v -34.84794 -5.886299 -38.346788 a 33.100439,33.617606 0 0 1 16.55053,-29.114239 33.100439,33.617606 0 0 1 15.76941,-4.49479 33.100439,33.617606 0 0 1 17.3316,4.49479 33.100439,33.617606 0 0 1 16.5495,29.114239 v 38.346788 5.886299 34.84794 h 25.18369 v -77.888301 a 58.284248,59.194893 0 0 0 -29.14135,-51.263915 58.284248,59.194893 0 0 0 -30.51779,-7.91433 z"
+           id="path4304"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#e43f5a;fill-opacity:1;stroke:none;stroke-width:177.75598145;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2807.1426,-171.76562 a 355.71429,355.71429 0 0 0 -355.7149,355.71484 355.71429,355.71429 0 0 0 355.7149,355.71289 355.71429,355.71429 0 0 0 355.7148,-355.71289 355.71429,355.71429 0 0 0 -355.7148,-355.71484 z m 0,215.302729 A 140.4112,140.4112 0 0 1 2947.5547,183.94922 140.4112,140.4112 0 0 1 2807.1426,324.35938 140.4112,140.4112 0 0 1 2666.7324,183.94922 140.4112,140.4112 0 0 1 2807.1426,43.537109 Z"
+           transform="scale(0.26458333)"
+           id="path4306" />
+      </g>
+      <text
+         id="text4334"
+         y="90.812614"
+         x="-210.58029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.69835711px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#e43f5a;fill-opacity:1;stroke:none;stroke-width:0.14245893"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#e43f5a;fill-opacity:1;stroke-width:0.14245893"
+           y="90.812614"
+           x="-210.58029"
+           id="tspan4332"
+           sodipodi:role="line">locker</tspan></text>
+    </g>
+  </g>
+</svg>
