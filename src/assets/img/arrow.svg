@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="45mm"
-   height="45mm"
-   viewBox="0 0 45 45"
+   width="11.90625mm"
+   height="11.90625mm"
+   viewBox="0 0 11.90625 11.90625"
    version="1.1"
    id="svg1069"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="-381.50893"
-     inkscape:cy="124.02707"
+     inkscape:zoom="2.8"
+     inkscape:cx="-20.272478"
+     inkscape:cy="24.462494"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,11 +56,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(219.42828,-48.073349)">
+     transform="translate(420.5116,-38.833763)">
     <path
        inkscape:connector-curvature="0"
        id="rect3199"
-       d="m -208.17787,48.073349 -5.7e-4,45 22.50032,-22.500316 z"
-       style="fill:#bccada;fill-opacity:1;stroke:none;stroke-width:8.41541576;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m -416.39153,38.833763 -1.5e-4,11.90625 5.95321,-5.953209 z"
+       style="fill:#bccada;fill-opacity:1;stroke:none;stroke-width:2.22657871;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
