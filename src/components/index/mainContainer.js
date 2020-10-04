@@ -41,7 +41,12 @@ const useStyles = makeStyles((theme) => ({
     width: '100%'
   },
   content: {
+    marginLeft:drawerWidth/2,
+    marginRight:'auto',
+    position:'absolute',
     width: '100%',
+    height:'auto',
+    minHeight:'100%',
     backgroundColor: 'var(--color-theme-2)'
   },
   listItemIcon: {
@@ -74,7 +79,7 @@ const useStyles = makeStyles((theme) => ({
 
 }));
 
-export default function MainContainer() {
+ const MainContainer=()=> {
   const classes = useStyles();
 
   return (
@@ -107,9 +112,9 @@ export default function MainContainer() {
 
         <a href="/create-locker" className={classes.addLockerButtonContainer}>
         <Button className={classes.addLockerButton} variant="contained" color="primary" disableElevation
-          // onClick={()=>{
-          //   return <Redirect to="/create-locker" />
-          // }}
+          onClick={()=>{
+            return <Redirect to="/create-locker" />
+          }}
           >
             <img className={classes.addLockerButtonIcon} src={AddIcon} />
             <h5 className={classes.addLockerButtonText} >Add Locker</h5>
@@ -134,3 +139,5 @@ export default function MainContainer() {
     </div>
   );
 }
+
+export default MainContainer;

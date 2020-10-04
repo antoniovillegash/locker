@@ -1,11 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import CreateLocker from '../createLocker/createLocker';
 // import CategorySection from '../category-section/categorySection';
 // import ViewArticle from '../articles/viewArticle';
 
-export default class index extends Component {
-    render() {
+const index=()=>{
+    
         return (
 
             <Router>
@@ -22,5 +22,7 @@ export default class index extends Component {
             </Router>
 
         )
-    }
+    
 }
+
+export default index;
